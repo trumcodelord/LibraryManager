@@ -1,0 +1,4 @@
+echo "HKM" > contributor-thai.md
+git add .
+git commit -m "Add Kim Minh"
+git push
